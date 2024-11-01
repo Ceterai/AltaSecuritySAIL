@@ -1,0 +1,11 @@
+{
+  "author" : "Ceterai",
+  "description" : "A tiny patch that replaces visuals of the default alta S.A.I.L. with the Alta Security one.\n\nThis is for people who don't use Customizable A.I. but still want the alternative visuals.\n\nYou can also use both (Customizable A.I. Security chip and this patch) to get the full experience, since CAI doesn't replace radio message portraits (and this patch does).\n\nIt only updates Alta Species S.A.I.L. and requires My Enternia to work (obviously).\n",
+  "friendlyName" : "Alta Security S.A.I.L.",
+  "includes" : ["my_enternia", "MyEnternia", "My Enternia", "AltaAIChips"],
+  "link" : "steam://url/CommunityFilePage/3291475134",
+  "name" : "SecurityAltaAI",
+  "steamContentId" : "3291475134",
+  "tags" : "User Interface",
+  "version" : "1.0"
+}
